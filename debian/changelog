@@ -1,0 +1,237 @@
+ros-humble-caret-analyze-cpp-impl (0.5.0-1jammy) jammy; urgency=high
+
+  * chore: update package.xml version to 0.4.24 (#192 <https://github.com/tier4/caret_analyze_cpp_impl/issues/192>)
+  * Contributors: h-suzuki-isp
+
+ -- ymski <yamasaki@isp.co.jp>  Tue, 30 Jan 2024 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.24-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 25 Dec 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.23-1jammy) jammy; urgency=high
+
+  * refactor: upgrade xml version (#187 <https://github.com/tier4/caret_analyze_cpp_impl/issues/187>)
+  * Contributors: h-suzuki-isp
+
+ -- ymski <yamasaki@isp.co.jp>  Thu, 14 Dec 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.22-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 11 Dec 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.21-1jammy) jammy; urgency=high
+
+  * chore: update maintainer (#172 <https://github.com/tier4/caret_analyze_cpp_impl/issues/172>)
+  * Contributors: ymski
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 26 Nov 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.20-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Thu, 09 Nov 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.19-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 29 Oct 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.18-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 09 Oct 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.17-1jammy) jammy; urgency=high
+
+  * remove indicators (#142 <https://github.com/tier4/caret_analyze_cpp_impl/issues/142>)
+  * fix typo (#153 <https://github.com/tier4/caret_analyze_cpp_impl/issues/153>)
+  * Contributors: ymski
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 02 Oct 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.16-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Tue, 19 Sep 2023 09:42:19 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.15-1jammy) jammy; urgency=high
+
+  * fixed typo (#131 <https://github.com/tier4/caret_analyze_cpp_impl/issues/131>)
+  * Contributors: ymski
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 03 Sep 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.14-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 20 Aug 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.13-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 23 Jul 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.12-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 09 Jul 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.11-1jammy) jammy; urgency=high
+
+  * fix: invalid key specification (#79 <https://github.com/tier4/caret_analyze_cpp_impl/issues/79>)
+  * Contributors: r.okamu
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 25 Jun 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.10-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 11 Jun 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.9-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 03 Apr 2023 12:19:30 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.8-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 03 Apr 2023 12:19:30 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.7-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 03 Apr 2023 12:19:30 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.6-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Mon, 03 Apr 2023 12:19:30 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.5-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Fri, 10 Feb 2023 10:52:16 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.4-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Fri, 10 Feb 2023 10:52:16 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.3-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Fri, 10 Feb 2023 10:52:16 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.4.2-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Wed, 18 Jan 2023 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.1-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 25 Dec 2022 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.4.0-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Tue, 13 Dec 2022 14:30:34 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.3.4-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Tue, 13 Dec 2022 14:30:34 +0900
+
+ros-humble-caret-analyze-cpp-impl (0.3.3-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 20 Nov 2022 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.3.2-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 13 Nov 2022 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.3.1-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Thu, 27 Oct 2022 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.3.0-1jammy) jammy; urgency=high
+
+  * fix(word): typo error (#25 <https://github.com/tier4/caret_analyze_cpp_impl/issues/25>)
+  * fix: cpp_impl import error on humble (#22 <https://github.com/tier4/caret_analyze_cpp_impl/issues/22>)
+    * fix: cpp_impl import error on humble
+    * remove tabs
+  * fix: import error. cannot open shared object file (#20 <https://github.com/tier4/caret_analyze_cpp_impl/issues/20>)
+  * test: pass uncrusify (#19 <https://github.com/tier4/caret_analyze_cpp_impl/issues/19>)
+  * fix: submodule caused test errors (#17 <https://github.com/tier4/caret_analyze_cpp_impl/issues/17>)
+    * mod: use yaml-cpp instead of json
+    * add: indicators_vendor
+    * clean dependency
+    * use indicators_vendor instead of submodule
+    * ci(pre-commit): autofix
+    * fix: records symbol not found err
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * test(records_vector): add json load (#16 <https://github.com/tier4/caret_analyze_cpp_impl/issues/16>)
+    * test(records_vector): add json
+    * ci(pre-commit): autofix
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * Contributors: Bo Peng, hsgwa
+
+ -- ymski <yamasaki@isp.co.jp>  Wed, 14 Sep 2022 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.2.3-1jammy) jammy; urgency=high
+
+  * fix: use pybind11_vendor instead of github submodule (#11 <https://github.com/tier4/caret_analyze_cpp_impl/issues/11>)
+  * Contributors: hsgwa
+
+ -- ymski <yamasaki@isp.co.jp>  Tue, 12 Jul 2022 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.2.2-1jammy) jammy; urgency=high
+
+  * feat: adapt github actions (#3 <https://github.com/tier4/caret_analyze_cpp_impl/issues/3>)
+    * feat: add build_depends.repos which is necessary file
+    * feat: show file
+    * feat: add recursive to clone pybind11
+    * delete ls
+    * fix: modify file organization
+  * Contributors: keita1523
+
+ -- ymski <yamasaki@isp.co.jp>  Thu, 14 Apr 2022 15:00:00 -0000
+
+ros-humble-caret-analyze-cpp-impl (0.2.1-1jammy) jammy; urgency=high
+
+
+
+ -- ymski <yamasaki@isp.co.jp>  Sun, 16 Jan 2022 15:00:00 -0000
+
+
